@@ -21,7 +21,7 @@ The Fitness Tracker App aims to provide users with a simple and effective way to
 git clone https://github.com/your-username/fitness-tracker-app.git
 
 # Navigate to the project folder
-cd fitness-tracker-app
+cd Full-Stack-Testing
 
 # Install dependencies
 npm install
